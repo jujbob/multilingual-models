@@ -3,11 +3,11 @@
 This repository contains the additional resources used in the paper "Multilingual Dependency Parsing for Low-Resource Languages: Case Studies of North Saami and Komi-Zyrian", written by KyungTae Lim, Niko Partanen and Thierry Poibeau in [LATTICE laboratory](http://www.lattice.cnrs.fr/), Paris. The additional materials include:
 
 - Bilingual dictionaries extracted from Giellatekno infrastructure
-    - [Komi–Finnish]()
-    - [Komi–Russian]()
-    - [Komi–English]()
-    - [Northern Saami–Finnish]()
-    - [Northern Saami–English]()
+    - [Finnish–Komi](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/fin_kpv.tsv)
+    - [Russian–Komi](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/rus_kpv.tsv)
+    - [Komi–English](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/kpv_eng.tsv)
+    - [Finnish–Northern Saami](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/fin_sme.tsv)
+    - [Northern Saami–Finnish](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/sme_fin.tsv)
 - Pretrained monolingual and multilingual word embeddings, latter aligned with [VecMap](https://github.com/artetxem/vecmap)
     - [Norhern Saami]()
     - [Komi-Zyrian]()
