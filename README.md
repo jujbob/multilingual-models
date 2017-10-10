@@ -8,7 +8,7 @@ This repository contains the additional resources used in the paper "Multilingua
     - [Komi–English](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/kpv_eng.tsv)
     - [Finnish–Northern Saami](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/fin_sme.tsv)
     - [Northern Saami–Finnish](https://github.com/jujbob/multilingual-models/blob/master/dictionaries/sme_fin.tsv)
-- Pretrained monolingual and multilingual word embeddings, latter aligned with [VecMap](https://github.com/artetxem/vecmap)
+- **COMING SOON** Pretrained monolingual and multilingual word embeddings, latter aligned with [VecMap](https://github.com/artetxem/vecmap)
     - [Norhern Saami]()
     - [Komi-Zyrian]()
     - [English]()
