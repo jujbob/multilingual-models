@@ -16,4 +16,10 @@ This repository contains the additional resources used in the paper "Multilingua
     - [Komi-Zyrian–Finnish](https://mycore.core-cloud.net/index.php/s/X6NWfynpC8UcrO2/download)
     - [Komi-Zyrian–Russian–Finnish](https://mycore.core-cloud.net/index.php/s/oC5kdDrRMGR3UxZ/download)
 
-Komi-Zyrian UD-style training and test corpora are hosted in [](https://github.com/langdoc/UD_Komi-Zyrian) Git-repository, in order to keep that distinct from individual papers. In this study we have used the [version 0.1](https://github.com/langdoc/UD_Komi-Zyrian/releases/tag/v0.1). We are fully aware that this version contains some errors and inconsistencies, as there were several open questions in applying UD annotation model to a new language.
+Komi-Zyrian UD-corpora have been later split into two sections, one for written and another for spoken languages, and they can be found in [Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice) and [IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP) repositories within UD infrastructure. In this study we have used the [version 0.1](https://github.com/langdoc/UD_Komi-Zyrian/releases/tag/v0.1), which is located in earlier repository which were not yet ready to be integrated into UD. We are fully aware that this version contains errors and inconsistencies, as there were in that point several open questions in applying UD annotation model to a new language.
+
+Users interested about Komi treebanks are strongly encouraged to look into dev-branches of these treebanks, since they reflect the state that will be included in next UD release 2.3.
+
+## Papers
+
+**TODO:** Add list of papers and posters with links
